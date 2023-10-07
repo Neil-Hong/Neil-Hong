@@ -1,6 +1,6 @@
 # Neil Hong
 
-I am Neil, a full stack developer from China, currentyly live in Sydney, Australia. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Neil, a full stack developer from <b>China</b>, currently live in <b>Sydney, Australia</b>. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Neil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/neil-hong-ba89ba1b8/)
 [![Instagram Badge](https://img.shields.io/badge/-Neil-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/memoriaa94/)
