@@ -1,4 +1,4 @@
-# neilhong0422
+# Neil Hong
 
 I am Neil, a full stack developer from China, currentyly live in Sydney, Australia. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
