@@ -3,7 +3,7 @@
 I am Neil, a full stack developer from <b>China</b>, currently live in <b>Sydney, Australia</b>. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Neil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/neil-hong-ba89ba1b8/)
-[![Instagram Badge](https://img.shields.io/badge/-Neil-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/memoriaa94/)
+[![Instagram Badge](https://img.shields.io/badge/-Neil-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/memoriaa/)
 [![Gmail Badge](https://img.shields.io/badge/-neilhong0422@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:neilhong0422@gmail.com)
 
 ## ⚡ Technologies
